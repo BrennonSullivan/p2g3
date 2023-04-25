@@ -94,6 +94,6 @@ Testing will be implemented (future development) with [Mocha](https://mochajs.or
 
 ## Contributing
 ✉️ Contact us with any questions ❓: 
-:octocat: [Andy Sanchez](https://github.com/AndySanchez726)
-:octocat: [Chris Short](https://github.com/durcoorigin)
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
+:octocat: [Brennon Sullivan](https://github.com/AndySanchez726)
+:octocat: [NgandalaLopes](https://github.com/NgandalaLopes)
+:octocat: [Nicole Pendarvis](https://github.com/Pendarvis5)
